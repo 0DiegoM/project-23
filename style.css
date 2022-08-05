@@ -19,7 +19,7 @@
 }
 
 body {
-    background: lightcoral;
+    background-image: linear-gradient(to right top, #66ccff, #66b2ff, #6698ff, #667dff, #6966ff);
 }
 
 h1 {
